@@ -1,2 +1,2 @@
 # hello-world
-First repository created for testing
+First personal repository used for testing and trying out stuff.
